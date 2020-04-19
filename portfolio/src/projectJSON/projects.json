@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Marvel Search",
+        "demoLink": "https://loganveik.github.io/marvelproject/",
+        "repoLink": "https://github.com/loganveik/marvelproject"
+    },
+    {
+        "id": 2,
+        "title": "Personality Test",
+        "demoLink": "https://whats-my-life.herokuapp.com/",
+        "repoLink": "https://github.com/shanscirg/project2"
+    },
+    {
+        "id": 3,
+        "title": "Topic Search",
+        "demoLink": "https://Ethan25Irvine.github.io/Project-1/",
+        "repoLink": "https://github.com/Ethan25Irvine/Project-1"
+    },
+    {
+        "id": 4,
+        "title": "Weather Dashboard",
+        "demoLink": "https://loganveik.github.io/weatherdashboard/",
+        "repoLink": "https://github.com/loganveik/weatherdashboard"
+    },
+    {
+        "id": 5,
+        "title": "Employee Directory",
+        "demoLink": "https://loganveik.github.io/reactEmployeeDirectory/",
+        "repoLink": "https://github.com/loganveik/reactEmployeeDirectory"
+    },
+    {
+        "id": 6,
+        "title": "Password Generator",
+        "demoLink": "https://loganveik.github.io/passwordgenerator-hw/",
+        "repoLink": "https://github.com/loganveik/passwordgenerator-hw"
+    }
+]

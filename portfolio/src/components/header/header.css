@@ -1,0 +1,9 @@
+.linkText{
+    color: white;
+}
+.linkText:hover{
+    color: yellow;
+}
+.navColor{
+    background-color: black;
+}

@@ -1,0 +1,13 @@
+#demorepotext{
+    color: black;
+}
+
+.projectCard{
+    border-style: solid; 
+    border-color: black; 
+    border-width: 2px;
+}
+
+.projImg{
+    height: 250px;
+}
