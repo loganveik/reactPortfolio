@@ -9,7 +9,7 @@ import weatherIMG from '../images/weatherdashboard.png';
 import empldirIMG from '../images/Screen Shot 2020-04-16 at 11.18.21 PM.png';
 import pwgIMG from '../images/pwg.png';
 import githubfooterIMG from '../images/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png';
-import './portfolio.css';
+import './portfolioANDabout.css';
 import Footer from '../components/footer/footer';
 
 function PortfolioPage() {
@@ -18,12 +18,12 @@ function PortfolioPage() {
             <Header
                 aboutORportfolio={"Portfolio"}
             />
-            <div className="container">
+            <div className="container my-5">
                 <div className="row">
                     <div className="col-lg-1"></div>
-                    <div className="col-lg-10 my-5">
+                    <div className="col-lg-10">
                         <div className="projectview text-center rounded">
-                        <h1 className="my-2">Projects</h1>
+                        <h2 className="my-2">Projects</h2>
                         <hr />
                             <div className="row">
                                 <div className="col-lg-6">

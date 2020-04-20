@@ -1,0 +1,23 @@
+.projectview,.contactandresourcesview,.aboutmelanguageview{
+    background-color: white;
+    border-style: solid; 
+    border-color: black; 
+    border-width: 3px;
+}
+
+.profpic{
+    height: 250px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+#languagepic{
+    width: 50px;
+    height: 50px;
+}
+
+.resourcepic:hover{
+    transform: scale(1.1);
+    transition: all .25s ease;
+}
