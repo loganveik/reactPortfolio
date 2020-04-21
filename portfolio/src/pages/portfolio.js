@@ -29,7 +29,7 @@ function PortfolioPage() {
                                 <div>
                                     <div className="card-body">
                                         <div className="text-center rounded">
-                                            <h2>Projects</h2>
+                                            <h2 className="mb-2">Projects</h2>
                                             <hr style={{ background: "white" }} />
                                             <div className="row">
                                                 <div className="col-lg-6">

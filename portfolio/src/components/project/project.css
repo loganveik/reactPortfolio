@@ -2,45 +2,5 @@
     color: black;
 }
 .projImg{
-   height: 225px;  
+    height: 225px; 
 }
-.projImg{
-    background-size: 100%;
-    transition: .8s;
-    position: relative;
-}
-.projImg:hover{
-    transform: scale(1.1);
-    /* background-color: rgba(0, 0, 0, 0.4); */
-    filter: blur(3px);
-}
-.projImg:after{
-    content: attr(description);
-    position: absolute;
-}
-
-.imgdiv{
-    overflow: hidden;
-    /* transform: scaleY(1); */
-}
-/* .imgtext{
-    position: absolute;
-    background-color: white;
-    height: 250px;
-    width: 100%;
-    color: black;
-    transform: scaleY(0);
-    transition: 0s;
-    transform: translateY(-50%);
-    display: flex;
-} */
-.card{
-    border-style: solid; 
-    border-color: black; 
-    border-width: 3px;
-}
-
-
-/* .bootstrapicon{
-    font-size: 100px;
-} */

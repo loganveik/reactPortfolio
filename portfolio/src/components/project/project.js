@@ -5,12 +5,7 @@ import './project.css';
 function project(props) {
     return (
         <Card className="my-2 mx-3 border border-light" key={props.id}>
-            <div className="imgdiv" description={props.description}>
-                <Card.Img variant="top" className="projImg" src={props.image} />
-                {/* <div className="overlay">
-                    <div className="text">{props.description}</div>
-                </div> */}
-            </div>
+            <Card.Img variant="top" className="projImg" src={props.image} />
             <Card.Body className="text-center">
                 <Card.Title style={{ color: "black" }}>{props.title}</Card.Title>
                 <hr />
