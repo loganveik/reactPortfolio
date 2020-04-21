@@ -44,7 +44,7 @@ function AboutPage() {
                                     <div className="col-lg-12">
                                         <div className="text-center rounded">
                                             <h2 className="">Contact</h2>
-                                            <hr style={{ background: "white" }}/>
+                                            <hr style={{ background: "white" }} />
                                             <div>
                                                 <p id="essentialtext"><strong>Phone: </strong>480-826-5883</p>
                                             </div>
@@ -71,60 +71,59 @@ function AboutPage() {
                                                 </div>
                                             </div>
                                             <h2 className="mt-4">Programs & Languages</h2>
-                                            <hr style={{ background: "white" }}/>
+                                            <hr style={{ background: "white" }} />
                                             <div className="row my-3">
-                                                <div className="col-lg-3">
+                                                <div className="col-lg-4">
                                                     <i className="devicon-html5-plain-wordmark colored" id="languagepic"></i>
                                                 </div>
-                                                <div className="col-lg-3">
+                                                <div className="col-lg-4">
                                                     <i className="devicon-css3-plain-wordmark colored" id="languagepic"></i>
                                                 </div>
-                                                <div className="col-lg-3">
+                                                <div className="col-lg-4">
                                                     <i className="devicon-bootstrap-plain-wordmark colored" id="languagepic"></i>
                                                 </div>
-                                                <div className="col-lg-3">
+                                            </div>
+                                            <div className="row my-3">
+                                                <div className="col-lg-4">
                                                     <i className="devicon-javascript-plain colored" id="languagepic"></i>
                                                 </div>
-                                            </div>
-                                            <div className="row my-3">
-                                                <div className="col-lg-3">
-                                                    <i className="devicon-express-original-wordmark" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-3">
-                                                    <i className="devicon-nodejs-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-3">
-                                                    <i className="devicon-mongodb-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-3">
-                                                    <i className="devicon-mysql-plain-wordmark colored" id="languagepicwhite"></i>
-                                                </div>
-                                            </div>
-                                            <div className="row my-3">
-                                                <div className="col-lg-3">
-                                                    <i className="devicon-sequelize-plain-wordmark colored" id="languagepicwhite"></i>
-                                                </div>
-                                                <div className="col-lg-3">
+                                                <div className="col-lg-4">
                                                     <i className="devicon-react-original-wordmark colored" id="languagepic"></i>
                                                 </div>
-                                                <div className="col-lg-3">
-                                                    <i className="devicon-webpack-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-3">
-                                                    <i className="devicon-jquery-plain-wordmark colored" id="languagepic"></i>
+                                                <div className="col-lg-4">
+                                                    <i className="devicon-mongodb-plain-wordmark colored" id="languagepic"></i>
                                                 </div>
                                             </div>
                                             <div className="row my-3">
-                                                <div className="col-lg-3">
-                                                    <i className="devicon-gimp-plain colored" id="languagepicwhite"></i>
+                                                <div className="col-lg-4">
+                                                    <i className="devicon-sequelize-plain-wordmark colored" id="languagepicwhite"></i>
                                                 </div>
-                                                <div className="col-lg-3">
+                                                <div className="col-lg-4">
+                                                    <i className="devicon-nodejs-plain-wordmark colored" id="languagepic"></i>
+                                                </div>
+                                                <div className="col-lg-4">
+                                                    <i className="devicon-webpack-plain-wordmark colored" id="languagepic"></i>
+                                                </div>
+                                            </div>
+                                            <div className="row my-3">
+                                                <div className="col-lg-4">
+                                                    <i className="devicon-gimp-plain colored" id="languagepic"></i>
+                                                </div>
+                                                <div className="col-lg-4">
                                                     <i className="devicon-git-plain-wordmark colored" id="languagepic"></i>
                                                 </div>
-                                                <div className="col-lg-3">
-                                                    <i className="devicon-heroku-line-wordmark colored" id="languagepic"></i>
+                                                <div className="col-lg-4">
+                                                    <i className="devicon-express-original-wordmark" id="languagepic"></i>
                                                 </div>
-                                                <div className="col-lg-3">
+                                            </div>
+                                            <div className="row my-3">
+                                                <div className="col-lg-4">
+                                                    <i className="devicon-mysql-plain-wordmark colored" id="languagepicwhite"></i>
+                                                </div>
+                                                <div className="col-lg-4">
+                                                    <i className="devicon-jquery-plain-wordmark colored" id="languagepic"></i>
+                                                </div>
+                                                <div className="col-lg-4">
                                                     <i className="devicon-visualstudio-plain colored" id="languagepic"></i>
                                                 </div>
                                             </div>
