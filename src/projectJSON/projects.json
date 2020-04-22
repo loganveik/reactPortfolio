@@ -30,7 +30,7 @@
     {
         "id": 5,
         "title": "Employee Directory",
-        "demoLink": "https://loganveik.github.io/reactEmployeeDirectory/",
+        "demoLink": "https://employeedirectorylv.netlify.app/",
         "repoLink": "https://github.com/loganveik/reactEmployeeDirectory",
         "description":"This app was created using: css3, javascript, bootstrap and React. This app is basically a list of all office characters and you can search the list, or filter by department. You can even sort by Alphabetical order."
     },
