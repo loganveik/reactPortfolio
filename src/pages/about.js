@@ -27,7 +27,7 @@ function AboutPage() {
                                             <h2 >About Me</h2>
                                             <hr style={{ background: "white" }} />
                                             <h5 className="bio" id="essentialtext">My name is Logan Veik, I am a full-stack web developer with
-                                                the objective to create practical and useful web applications. I am currently enrolled in the
+                                                the objective to create practical and useful web applications. I am a recent graduate from the
                                                 University of Arizona Full-Stack Coding Bootcamp. Check out the rest of my portfolio to see both my
                                                 independent and team projects, plus all the languages I have become proficient with. Including React, which was used to build this entire portfolio.
                                     </h5>

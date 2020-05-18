@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Marvel Search",
+        "demoLink": "https://loganveik.github.io/marvelproject/",
+        "repoLink": "https://github.com/loganveik/marvelproject",
+        "description": "This app was created using: html5, css3, Jquery, javascript, bootstrap, and the Marvel API. You can either search a character or comicbook and either one takes what you searched and queries it through the Marvel API, which in turn generates character info on a card in the response."
+    },
+    {
+        "id": 2,
+        "title": "Table Scraps",
+        "demoLink": "https://tablescraps.herokuapp.com/",
+        "repoLink": "https://github.com/ahaymond-dev/recipeManager",
+        "description":"This app was created using: html5, css3, javascript, bootstrap, node, express, REACT, Mongodb and mongoose. This is a recipe costing app geared towards the restaurant business. Once signed in, you create a recipe by searching ingredients, listing the proper prices and weight of each ingredient. And we tell you exactly how much your recipe will cost so that you know exactly how many grams of each ingredient to get to prevent wasting food and money."
+    },
+    {
+        "id": 3,
+        "title": "Personality Test",
+        "demoLink": "https://whats-my-life.herokuapp.com/",
+        "repoLink": "https://github.com/shanscirg/project2",
+        "description":"This app was created using: handlebars, css3, Jquery, nodejs, express, javascript, bootstrap, mySQL, and Sequelize. Click the begin button, take the test, fill out form at bottom to sign in, and then view youre results."
+    },
+    {
+        "id": 4,
+        "title": "Topic Search",
+        "demoLink": "https://Ethan25Irvine.github.io/Project-1/",
+        "repoLink": "https://github.com/Ethan25Irvine/Project-1",
+        "description":"This app was created using: html5, css3, Jquery, javascript, bootstrap and the Google News, Billboard, and Youtube API's. On the top of the oage you can search any topic whether it be a person, world event, a song etc. and you'll be presented with the first 5 results from the youtube and google api's."
+    },
+    {
+        "id": 5,
+        "title": "Weather Dashboard",
+        "demoLink": "https://loganveik.github.io/weatherdashboard/",
+        "repoLink": "https://github.com/loganveik/weatherdashboard",
+        "description":"This app was created using: html5, css3, Jquery, javascript, bootstrap and the openweathermap API. First, youll be asked to search a city and once you enter it and press search, the ajax will run with your query and you'll be displayed with the current day's forecasr as well as the 5 day forecast. this is using the current day, uv index, and 5day API's from openweathermap"
+    },
+    {
+        "id": 6,
+        "title": "Employee Directory",
+        "demoLink": "https://employeedirectorylv.netlify.app/",
+        "repoLink": "https://github.com/loganveik/reactEmployeeDirectory",
+        "description":"This app was created using: css3, javascript, bootstrap and React. This app is basically a list of all office characters and you can search the list, or filter by department. You can even sort by Alphabetical order."
+    }
+]
