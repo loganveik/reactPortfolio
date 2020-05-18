@@ -10,7 +10,6 @@ function project(props) {
                 <Card.Title style={{ color: "black" }}>{props.title}</Card.Title>
                 <hr />
                 <div className="row">
-                    {/* <i class="bootstrapicon devicon-bootstrap-plain-wordmark colored"></i> */}
                     <div className="col-lg-6">
                         <a href={props.demoLink}>
                             <Card.Text id="demorepotext" style={{ color: "black" }}>Demo</Card.Text>

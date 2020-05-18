@@ -4,6 +4,8 @@ import profpic from '../images/IMG_2558.jpg';
 import './portfolioANDabout.css';
 import Footer from '../components/footer/footer';
 import githubfooterIMG from '../images/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png';
+import languages from '../JSON/languages';
+import Language from '../components/languagepic/languagepic';
 
 function AboutPage() {
     return (
@@ -73,59 +75,89 @@ function AboutPage() {
                                             <h2 className="mt-4">Programs & Languages</h2>
                                             <hr style={{ background: "white" }} />
                                             <div className="row my-3">
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-html5-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-css3-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-bootstrap-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
+                                                <Language
+                                                    id={languages[0].id}
+                                                    icon={languages[0].icon}
+                                                    idname={"languagepic"}
+                                                />
+                                                <Language
+                                                    id={languages[1].id}
+                                                    icon={languages[1].icon}
+                                                    idname={"languagepic"}
+                                                />
+                                                <Language
+                                                    id={languages[2].id}
+                                                    icon={languages[2].icon}
+                                                    idname={"languagepic"}
+                                                />
                                             </div>
                                             <div className="row my-3">
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-javascript-plain colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-react-original-wordmark colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-mongodb-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
+                                                <Language
+                                                    id={languages[3].id}
+                                                    icon={languages[3].icon}
+                                                    idname={"languagepic"}
+                                                />
+                                                <Language
+                                                    id={languages[4].id}
+                                                    icon={languages[4].icon}
+                                                    idname={"languagepic"}
+                                                />
+                                                <Language
+                                                    id={languages[5].id}
+                                                    icon={languages[5].icon}
+                                                    idname={"languagepic"}
+                                                />
                                             </div>
                                             <div className="row my-3">
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-sequelize-plain-wordmark colored" id="languagepicwhite"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-nodejs-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-webpack-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
+                                                <Language
+                                                    id={languages[6].id}
+                                                    icon={languages[6].icon}
+                                                    idname={"languagepicwhite"}
+                                                />
+                                                <Language
+                                                    id={languages[7].id}
+                                                    icon={languages[7].icon}
+                                                    idname={"languagepic"}
+                                                />
+                                                <Language
+                                                    id={languages[8].id}
+                                                    icon={languages[8].icon}
+                                                    idname={"languagepic"}
+                                                />
                                             </div>
                                             <div className="row my-3">
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-gimp-plain colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-git-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-express-original-wordmark" id="languagepic"></i>
-                                                </div>
+                                                <Language
+                                                    id={languages[9].id}
+                                                    icon={languages[9].icon}
+                                                    idname={"languagepic"}
+                                                />
+                                                <Language
+                                                    id={languages[10].id}
+                                                    icon={languages[10].icon}
+                                                    idname={"languagepic"}
+                                                />
+                                                <Language
+                                                    id={languages[11].id}
+                                                    icon={languages[11].icon}
+                                                    idname={"languagepic"}
+                                                />
                                             </div>
                                             <div className="row my-3">
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-mysql-plain-wordmark colored" id="languagepicwhite"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-jquery-plain-wordmark colored" id="languagepic"></i>
-                                                </div>
-                                                <div className="col-lg-4">
-                                                    <i className="devicon-visualstudio-plain colored" id="languagepic"></i>
-                                                </div>
+                                                <Language
+                                                    id={languages[12].id}
+                                                    icon={languages[12].icon}
+                                                    idname={"languagepic"}
+                                                />
+                                                <Language
+                                                    id={languages[13].id}
+                                                    icon={languages[13].icon}
+                                                    idname={"languagepic"}
+                                                />
+                                                <Language
+                                                    id={languages[14].id}
+                                                    icon={languages[14].icon}
+                                                    idname={"languagepic"}
+                                                />
                                             </div>
                                         </div>
                                     </div>
