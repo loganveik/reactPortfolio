@@ -52,7 +52,7 @@ function AboutPage() {
                                             </div>
                                             <div className="row">
                                                 <div className="col-lg-3 my-1">
-                                                    <a className="resources" href="https://drive.google.com/open?id=1tiXCMvwznPjx71Ui0AOhlyu4aq9BEkrNFeg01pOKaHw">
+                                                    <a className="resources" href="https://drive.google.com/file/d/1tiXCMvwznPjx71Ui0AOhlyu4aq9BEkrNFeg01pOKaHw/view">
                                                         <i className="far fa-file-alt resourcepic"></i>
                                                     </a>
                                                 </div>
