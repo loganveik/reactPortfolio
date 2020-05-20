@@ -7,7 +7,7 @@ function Footer() {
             <p className="footertext mx-1">© Logan Veik</p>
             <p className="footertext mx-1">|</p>
             <a href="https://github.com/loganveik/reactPortfolio">
-                <i className="fab fa-github mx-1" style={{ color: "white", fontSize: 25 }}></i>
+                <i className="fab fa-github mx-1" style={{ color: "white", fontSize: 25}}></i>
             </a>
         </footer>
     );

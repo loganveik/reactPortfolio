@@ -3,7 +3,6 @@ import Header from '../components/header/header';
 import profpic from '../images/IMG_2558.jpg';
 import './portfolioANDabout.css';
 import Footer from '../components/footer/footer';
-import githubfooterIMG from '../images/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png';
 import languages from '../JSON/languages';
 import Language from '../components/languagepic/languagepic';
 
@@ -40,12 +39,12 @@ function AboutPage() {
                         </div>
                     </div>
                     <div className="col-lg-5">
-                        <div className="card contactresourceslanguageview" style={{ backgroundColor: "rgba(0,0,0,0.6)" }}>
+                        <div className="card contactresourceslanguageview my-3" style={{ backgroundColor: "rgba(0,0,0,0.6)" }}>
                             <div className="card-body">
                                 <div className="row">
                                     <div className="col-lg-12">
                                         <div className="text-center rounded">
-                                            <h2 className="">Contact</h2>
+                                            <h2>Contact</h2>
                                             <hr style={{ background: "white" }} />
                                             <div>
                                                 <p id="essentialtext"><strong>Phone: </strong>480-826-5883</p>
@@ -72,7 +71,17 @@ function AboutPage() {
                                                     </a>
                                                 </div>
                                             </div>
-                                            <h2 className="mt-4">Programs & Languages</h2>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="card contactresourceslanguageview" style={{ backgroundColor: "rgba(0,0,0,0.6)" }}>
+                            <div className="card-body">
+                                <div className="row">
+                                    <div className="col-lg-12">
+                                        <div className="text-center rounded">
+                                            <h2>Programs & Languages</h2>
                                             <hr style={{ background: "white" }} />
                                             <div className="row my-3">
                                                 <Language
@@ -167,9 +176,7 @@ function AboutPage() {
                     </div>
                 </div>
             </div>
-            <Footer
-                githubfooterimg={githubfooterIMG}
-            />
+            <Footer />
         </div>
     );
 }
