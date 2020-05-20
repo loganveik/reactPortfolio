@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Marvel Search",
+        "title": "Marvel Review App",
         "demoLink": "https://loganveik.github.io/marvelproject/",
-        "repoLink": "https://github.com/loganveik/marvelproject",
-        "description": "This app was created using: html5, css3, Jquery, javascript, bootstrap, and the Marvel API. You can either search a character or comicbook and either one takes what you searched and queries it through the Marvel API, which in turn generates character info on a card in the response."
+        "repoLink": "https://github.com/loganveik/marvelapp",
+        "description": ""
     },
     {
         "id": 2,

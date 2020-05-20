@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../components/header/header';
 import Project from '../components/project/project';
 import projects from '../JSON/projects.json';
-import marvelIMG from '../images/marvel.png';
+import marvelIMG from '../images/marvelreview.png';
 import ladsIMG from '../images/lads.png';
 import proj1IMG from '../images/proj1.png';
 import weatherIMG from '../images/weatherdashboard.png';
