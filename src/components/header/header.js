@@ -12,7 +12,9 @@ function Header(props) {
                 <Link className={props.portfolio} to="/portfolio">Portfolio</Link>
             </Nav>
             <Nav>
-                <Navbar.Brand style={{fontSize: 30}}>{props.aboutORportfolio}</Navbar.Brand>
+                <a className="resources" href="mailto:jumpswervelogan@gmail.com">
+                    <i className="far fa-envelope email"></i>
+                </a>
             </Nav >
         </Navbar>
     );

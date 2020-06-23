@@ -50,26 +50,26 @@ function AboutPage() {
                                                 <p id="essentialtext"><strong>Phone: </strong>480-826-5883</p>
                                             </div>
                                             <div className="row">
-                                                <div className="col-lg-3 my-1">
+                                                <div className="col-lg-4 my-1">
                                                     <a className="resources" href="https://drive.google.com/file/d/1tiXCMvwznPjx71Ui0AOhlyu4aq9BEkrNFeg01pOKaHw/view">
                                                         <i className="far fa-file-alt resourcepic"></i>
                                                     </a>
                                                 </div>
-                                                <div className="col-lg-3 my-1">
+                                                <div className="col-lg-4 my-1">
                                                     <a className="resources" href="https://github.com/loganveik">
                                                         <i className="fab fa-github resourcepic"></i>
                                                     </a>
                                                 </div>
-                                                <div className="col-lg-3 my-1">
+                                                <div className="col-lg-4 my-1">
                                                     <a className="resources" href="https://www.linkedin.com/in/logan-veik-018187196/">
                                                         <i className="fab fa-linkedin resourcepic"></i>
                                                     </a>
                                                 </div>
-                                                <div className="col-lg-3 my-1">
+                                                {/* <div className="col-lg-3 my-1">
                                                     <a className="resources" href="mailto:jumpswervelogan@gmail.com">
                                                         <i className="far fa-envelope resourcepic"></i>
                                                     </a>
-                                                </div>
+                                                </div> */}
                                             </div>
                                         </div>
                                     </div>
