@@ -3,6 +3,7 @@ import './header.css';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import { Link } from "react-router-dom";
+import { white } from 'color-name';
 
 function Header(props) {
     return (
@@ -12,9 +13,7 @@ function Header(props) {
                 <Link className={props.portfolio} to="/portfolio">Portfolio</Link>
             </Nav>
             <Nav>
-                <a className="resources" href="mailto:jumpswervelogan@gmail.com">
-                    <i className="far fa-envelope email"></i>
-                </a>
+                <h3 style={{color: "white"}}>{props.aboutORportfolio}</h3>
             </Nav >
         </Navbar>
     );

@@ -18,3 +18,14 @@
     font-size: 50px;
     transition: .25s;
 }
+.email{
+    color: skyblue;
+    font-size: 40px;
+}
+
+.resources{
+    color: white;
+}
+.resources:hover{
+    color: skyblue;
+}

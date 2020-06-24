@@ -46,8 +46,11 @@ function AboutPage() {
                                         <div className="text-center rounded">
                                             <h2>Contact</h2>
                                             <hr style={{ background: "white" }} />
-                                            <div>
-                                                <p id="essentialtext"><strong>Phone: </strong>480-826-5883</p>
+                                            <div className="my-3">
+                                                <i className="far fa-envelope email"></i>
+                                                <a className="resources" href="mailto:jumpswervelogan@gmail.com">
+                                                    <h5>jumpswervelogan@gmail.com</h5>
+                                                </a>
                                             </div>
                                             <div className="row">
                                                 <div className="col-lg-4 my-1">

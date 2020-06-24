@@ -7,12 +7,3 @@
 .navColor{
     background-color: black;
 }
-
-.email:hover{
-    transform: scale(1.1);
-}
-.email{
-    color: skyblue;
-    font-size: 45px;
-    transition: .25s;
-}
