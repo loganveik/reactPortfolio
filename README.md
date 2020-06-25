@@ -1,8 +1,8 @@
 # Portfolio (Logan Veik)
 
 ### Links:
-Demo - [https://loganveik.github.io/weatherdashboard](https://loganveik.github.io/weatherdashboard)
-Repo - [https://github.com/loganveik/marvelapp](https://github.com/loganveik/marvelapp)
+Demo - [https://ljvportfolio.netlify.app/](https://ljvportfolio.netlify.app/)
+Repo - [https://github.com/loganveik/reactPortfolio](https://github.com/loganveik/reactPortfolio)
 
 ### Description:
 My Professional Portfolio. This portfolio highlights industry-desired skills and accomplishments, displays my contact info, and showcases 6 successful applications which each include detailed descriptions and demo/repo links.
@@ -11,7 +11,7 @@ My Professional Portfolio. This portfolio highlights industry-desired skills and
 React, Bootstrap4, CSS3, Javascript, NodeJS, Express.
 
 ### How to Use:
-1) This is the about page where you'll find my contact info, newly-learned technologies, and a brief summary about me.
-![homescreen](ex1.png)
-2) Once logged in, you'll be on your profile page, where you either search the Marvel API's database for any character or Comicbook. Or you can write your own custom reviews for ANY caharacter as well as view all your reviews.
-![homescreen](ex1.png)
+1) This is the "About" page where you'll find my contact info, newly-learned technologies, and a brief summary about me.
+![about](ex1.png)
+2) This is the "Portfolio" page which showcases 6 of the best and most up-to-date applications that have been built either idependently by me or with a collaborative team.
+![portfolio](ex1.png)
