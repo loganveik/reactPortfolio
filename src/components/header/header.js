@@ -3,7 +3,6 @@ import './header.css';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import { Link } from "react-router-dom";
-import { white } from 'color-name';
 
 function Header(props) {
     return (
