@@ -14,4 +14,4 @@ React, Bootstrap4, CSS3, Javascript, NodeJS, Express.
 1) This is the "About" page where you'll find my contact info, newly-learned technologies, and a brief summary about me.
 ![about](ex1.png)
 2) This is the "Portfolio" page which showcases 6 of the best and most up-to-date applications that have been built either idependently by me or with a collaborative team.
-![portfolio](ex1.png)
+![portfolio](ex2.png)
