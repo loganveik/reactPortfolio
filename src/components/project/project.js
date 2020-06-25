@@ -6,10 +6,15 @@ function project(props) {
     return (
         <Card id="card" className="my-2 mx-3 border border-light" key={props.id}>
             <Card.Img variant="top" className="projImg" src={props.image} />
-            <Card.Body className="text-center">
-                <Card.Title style={{ color: "black" }}>{props.title}</Card.Title>
+            <Card.Body className="">
+                <h3 className="text-center" style={{ color: "black" }}>{props.title}</h3>
                 <hr />
-                <div className="row">
+                <h5 style={{ color: "black" }}>Description</h5>
+                <Card.Text style={{ color: "black" }}>{props.description}</Card.Text>
+                <h5 style={{ color: "black" }}>Languages</h5>
+                <Card.Text style={{ color: "black" }}>{props.languages}</Card.Text>
+                <hr />
+                <div className="row text-center">
                     <div className="col-lg-6">
                         <a href={props.demoLink}>
                             <Card.Text id="demorepotext" style={{ color: "black" }}>Demo</Card.Text>
