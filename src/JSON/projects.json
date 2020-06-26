@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Marvel Review App",
-        "demoLink": "https://loganveik.github.io/marvelproject/",
+        "demoLink": "https://ljvmarvelapp.herokuapp.com/",
         "repoLink": "https://github.com/loganveik/marvelapp",
         "description": "This app, once signed in, lets the user search for any character/comicbook. The user may also create a character review as well as view any review.",
         "languages": "Handlebars, Bootstrap4, CSS3, Javascript, jQuery, Ajax, NodeJS, Express, MySQL, Sequelize, Passport, Bcrypt, Marvel API."
